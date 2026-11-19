@@ -28,11 +28,19 @@ Sou apaixonado por tecnologia e desenvolvimento de software, especialmente pela 
 
 <img 
     align="left" 
-    alt="JAVA"
-    title="JAVA" 
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Intellij" 
+    title="Intellij"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
 />
 <img 
     align="left" 
@@ -44,11 +52,19 @@ Sou apaixonado por tecnologia e desenvolvimento de software, especialmente pela 
 />
 <img 
     align="left" 
-    alt="INTELLIJ" 
-    title="INTELLIJ"
+    alt="Github" 
+    title="Github"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
+    src="https://cdn.simpleicons.org/github/FFFFFF"
+/>
+<img 
+    align="left" 
+    alt="VScode" 
+    title="Vscode"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
 
 <br/>
