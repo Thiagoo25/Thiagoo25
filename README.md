@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end Java`**
 
-Meu nome é Thiago Pereira de Souza, tenho 21 anos e sou natural de São Paulo. Concluí o curso Técnico em Informática pelo Senac Osasco e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta Tecnologia.
+Meu nome é Thiago Pereira de Souza, tenho 21 anos e sou natural de São Paulo. Concluí o curso Técnico em Informática pelo Senac e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta Tecnologia.
 Sou apaixonado por tecnologia e desenvolvimento de software, especialmente pela área Back-end. Atualmente, estou aprofundando meus conhecimentos em Java, lógica de programação, Programação Orientada a Objetos (POO), SQL e Git/GitHub, desenvolvendo projetos e colocando em prática os conhecimentos adquiridos durante meus estudos.
 
 <p align="left">
